@@ -1,2 +1,1 @@
-# myBooksOnline
-Website on Books,Magazines,Movies Information and Storage [Ember.JS]
+# myBooksOnlineWEBSITE DESCRIPTION-> Contains a database of Books, Magazines and Movies including new as well as old records.-> Users can Add items to their wish lists-> Email Alerts can be sent to registered users for latest trendsTechnologies Used-> Ember.JS -> Web Services in PHP-> Mysql Database-> PHP 5.5.12, Apache 2.4.9
